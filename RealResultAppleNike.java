@@ -22,7 +22,7 @@ public class RealResultAppleNike extends World
     {
         Greenfoot.delay(10);
         //Selection "1" instantiates object ResultAppleNike
-        if (Greenfoot.isKeyDown("1"))
+        if (Greenfoot.isKeyDown("enter"))
         {
             Greenfoot.setWorld(new Review());
         }

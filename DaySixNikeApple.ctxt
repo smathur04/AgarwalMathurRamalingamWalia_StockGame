@@ -1,9 +1,9 @@
 #BlueJ class context
 comment0.target=DaySixNikeApple
-comment0.text=\r\n\ class\ DaySixNikeApple\ instantiates\ object\ based\ on\ user\ input.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ 11292020\r\n
+comment0.text=\n\ class\ DaySixNikeApple\ instantiates\ object\ based\ on\ user\ input.\n\ \n\ @author\ (your\ name)\ \n\ @version\ 11292020\n
 comment1.params=
 comment1.target=DaySixNikeApple()
-comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DaySixNikeApple.\r\n\ \r\n
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ DaySixNikeApple.\n\ \n
 comment2.params=
 comment2.target=void\ act()
 numComments=3

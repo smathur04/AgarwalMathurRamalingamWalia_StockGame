@@ -31,7 +31,7 @@ public class DayFiveNikeApple extends World
         }
         else if (Greenfoot.isKeyDown("1"))
         {
-            Greenfoot.setWorld(new DaySixNikeApple());
+            Greenfoot.setWorld(new RealResultAppleNike());
         }
         //Selection "2" instantiates object DaySixNike
         else if (Greenfoot.isKeyDown("2"))

@@ -32,7 +32,7 @@ public class DayFiveStarbucksApple extends World
         //Selection "1" instantiates object DaySixStarbucksApple
         else if (Greenfoot.isKeyDown("1"))
         {
-            Greenfoot.setWorld(new DaySixStarbucksApple());
+            Greenfoot.setWorld(new NewResultStarbApp());
         }
         //Selection "2" instantiates object DaySixStarbucks
         else if (Greenfoot.isKeyDown("2"))
