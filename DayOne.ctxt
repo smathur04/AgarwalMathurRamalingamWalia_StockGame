@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DayOne
+comment0.text=\r\n\ class\ DayOne\ allows\ user\ to\ select/buy\ one\ of\ the\ given\ stock\ options\ and\ instantiates\ object\ according\ to\ user\ selection\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ 11292020\r\n
+comment1.params=
+comment1.target=DayOne()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DayOne.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ResultStarbucksATT
+comment0.text=\r\n\ class\ ResultStarbucksATT\ instantiates\ object\ based\ on\ user\ input.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ 11292020\r\n
+comment1.params=
+comment1.target=ResultStarbucksATT()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ResultStarbucksATT.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

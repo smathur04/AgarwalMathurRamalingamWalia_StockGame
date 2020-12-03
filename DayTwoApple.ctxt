@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DayTwoApple
+comment0.text=\r\n\ class\ DayTwoApple\ instantiates\ object\ or\ displays\ message\ according\ to\ user\ selection\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ 11292020\r\n
+comment1.params=
+comment1.target=DayTwoApple()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DayTwoApple.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
