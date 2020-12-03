@@ -20,6 +20,7 @@ public class DayTwoApple extends World
     }
     public void act()
     {
+        addObject(new Counter("352"), 955, 50);//adds balance with value of 352
         Greenfoot.delay(300);
         String q=Greenfoot.ask("Please enter the word next to continue!");
         // selection 'next' instantiates object DayThreeApple

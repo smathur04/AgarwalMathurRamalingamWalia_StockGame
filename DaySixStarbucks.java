@@ -20,6 +20,7 @@ public class DaySixStarbucks extends World
     }
     public void act()
     {
+        addObject(new Counter("308"), 955, 50);//creates balance counter
         Greenfoot.delay(10);
         //Selection "1" instantiates object ResultStarbucksATT
         if (Greenfoot.isKeyDown("1"))

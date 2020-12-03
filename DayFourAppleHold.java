@@ -20,6 +20,7 @@ public class DayFourAppleHold extends World
     }
     public void act()
     {
+        addObject(new Counter("480"), 955, 50);//creates balance counter
         Greenfoot.delay(10);
         //Selection "1" instantiates object ResultApple
         if (Greenfoot.isKeyDown("1"))

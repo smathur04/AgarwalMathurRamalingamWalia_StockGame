@@ -20,6 +20,7 @@ public class DayFiveNikeATT extends World
     }
     public void act()
     {
+        addObject(new Counter("330"), 955, 50);//creates balance counter
         Greenfoot.delay(10);
         //Message is displyed when 'enter' key is pressed
         if (Greenfoot.isKeyDown("enter"))
@@ -31,12 +32,12 @@ public class DayFiveNikeATT extends World
         }
         else if (Greenfoot.isKeyDown("1"))
         {
-            Greenfoot.setWorld(new DaySixNikeATT());
+            Greenfoot.setWorld(new FinalNikeATT());
         }
         //Selection "2" instantiates object DaySixNike
         else if (Greenfoot.isKeyDown("2"))
         {
-            Greenfoot.setWorld(new DaySixNike());
+            Greenfoot.setWorld(new DaySixNikeATT());
         }
     }
 }

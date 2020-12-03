@@ -20,6 +20,7 @@ public class DayFourATTHold extends World
     }
     public void act()
     {
+        addObject(new Counter("500"), 955, 50);//creates balance counter
         Greenfoot.delay(10);
         // instantiates object ResultATT when user presses 1
         if (Greenfoot.isKeyDown("1"))

@@ -20,6 +20,7 @@ public class DayFiveStarbucksApple extends World
     }
     public void act()
     {
+        addObject(new Counter("260"), 955, 50);//creates balance counter
         Greenfoot.delay(10);
         //Message is displyed when 'enter' key is pressed
         if (Greenfoot.isKeyDown("enter"))
